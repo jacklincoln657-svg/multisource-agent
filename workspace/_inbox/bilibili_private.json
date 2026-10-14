@@ -1,0 +1,50 @@
+{
+  "source": "bilibili_mock",
+  "profile": {
+    "mid": 12345678,
+    "name": "demo_bili_user",
+    "level": 5,
+    "follower": 12,
+    "following": 86,
+    "sign": "mock only",
+    "archive_count": 0,
+    "like_num": 0
+  },
+  "history": [
+    {
+      "title": "【游戏王】环境速报：本周上位卡组一览",
+      "bvid": "BV1mock001",
+      "author_name": "环境观察站",
+      "author_mid": 10001,
+      "business": "archive",
+      "progress": 620,
+      "duration": 900,
+      "view_at": 1773000000,
+      "tag_name": "游戏王"
+    },
+    {
+      "title": "CS2 残局教学：1v2 怎么打",
+      "bvid": "BV1mock002",
+      "author_name": "枪法练习生",
+      "business": "archive",
+      "progress": 300,
+      "duration": 720,
+      "view_at": 1772990000,
+      "tag_name": "FPS"
+    },
+    {
+      "title": "放松向：雨声写代码 3 小时",
+      "bvid": "BV1mock003",
+      "author_name": "白噪音铺",
+      "business": "archive",
+      "progress": 1800,
+      "duration": 10800,
+      "view_at": 1772900000,
+      "tag_name": "生活"
+    }
+  ],
+  "uploads": [],
+  "favorites": [
+    {"id": 1, "title": "默认收藏夹", "media_count": 3}
+  ]
+}

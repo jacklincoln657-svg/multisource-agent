@@ -1,0 +1,36 @@
+{
+  "source": "feishu_bitable_plan_mock",
+  "app_token": "mock_bitable",
+  "table_id": "mock_table",
+  "record_count": 3,
+  "records": [
+    {
+      "record_id": "rec_1",
+      "日期": "2026-09-17",
+      "事项": "整理飞书接入验收清单",
+      "优先级": "高",
+      "来源": "agent",
+      "状态": "进行中",
+      "备注": "日历+计划表"
+    },
+    {
+      "record_id": "rec_2",
+      "日期": "2026-09-18",
+      "事项": "写周报",
+      "优先级": "中",
+      "来源": "manual",
+      "状态": "待办",
+      "备注": ""
+    },
+    {
+      "record_id": "rec_3",
+      "日期": "2026-09-19",
+      "事项": "复习 Agent 路由与止损",
+      "优先级": "中",
+      "来源": "chat",
+      "状态": "待办",
+      "备注": "白名单群提到"
+    }
+  ],
+  "table_url_hint": "https://feishu.cn/base/mock_bitable"
+}

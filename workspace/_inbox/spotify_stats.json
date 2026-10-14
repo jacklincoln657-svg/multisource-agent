@@ -1,0 +1,57 @@
+{
+  "status": "success",
+  "profile": {
+    "platform": "spotify_mock",
+    "display_name": "demo_user"
+  },
+  "top_tracks": [
+    {
+      "track_name": "Bonebreaker Anthem",
+      "artist": "Forge Choir",
+      "main_genre": "Industrial Metal",
+      "play_count": 86,
+      "energy": 0.92
+    },
+    {
+      "track_name": "Candlelight Dice",
+      "artist": "Tavern Strings",
+      "main_genre": "Orchestral Fantasy",
+      "play_count": 64,
+      "energy": 0.55
+    },
+    {
+      "track_name": "Soft Rain on Crops",
+      "artist": "Valley Lo-Fi",
+      "main_genre": "Lo-Fi / Chill",
+      "play_count": 120,
+      "energy": 0.28
+    },
+    {
+      "track_name": "Neon Drift",
+      "artist": "Night Bus",
+      "main_genre": "Synthwave",
+      "play_count": 41,
+      "energy": 0.7
+    }
+  ],
+  "game_affinity": [
+    {
+      "title": "Warhammer 40,000: Space Marine 2",
+      "main_genre": "Hardcore Action",
+      "user_rating": 9.5,
+      "matched_mood": "Industrial Metal"
+    },
+    {
+      "title": "Baldur's Gate 3",
+      "main_genre": "RPG",
+      "user_rating": 9.8,
+      "matched_mood": "Orchestral Fantasy"
+    },
+    {
+      "title": "Stardew Valley",
+      "main_genre": "Relaxing/Box-Garden",
+      "user_rating": 10.0,
+      "matched_mood": "Lo-Fi / Chill"
+    }
+  ]
+}

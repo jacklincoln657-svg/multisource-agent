@@ -1,0 +1,22 @@
+{
+  "response": {
+    "game_count": 3,
+    "games": [
+      {
+        "appid": 2183900,
+        "name": "Warhammer 40,000: Space Marine 2",
+        "playtime_forever": 4500
+      },
+      {
+        "appid": 1086940,
+        "name": "Baldur's Gate 3",
+        "playtime_forever": 6000
+      },
+      {
+        "appid": 413150,
+        "name": "Stardew Valley",
+        "playtime_forever": 3200
+      }
+    ]
+  }
+}

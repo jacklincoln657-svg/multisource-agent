@@ -1,0 +1,35 @@
+{
+  "source": "feishu_calendar_mock",
+  "calendar_id": "mock_primary",
+  "days": 3,
+  "range_start": "2026-09-17 00:00",
+  "range_end": "2026-09-20 00:00",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "evt_mock_1",
+      "summary": "周会",
+      "description": "同步本周进度",
+      "start": "2026-09-17 10:00",
+      "end": "2026-09-17 11:00",
+      "status": "confirmed"
+    },
+    {
+      "event_id": "evt_mock_2",
+      "summary": "项目评审",
+      "description": "",
+      "start": "2026-09-18 15:00",
+      "end": "2026-09-18 16:00",
+      "status": "confirmed"
+    },
+    {
+      "event_id": "evt_mock_3",
+      "summary": "一对一",
+      "description": "和下周安排",
+      "start": "2026-09-19 14:30",
+      "end": "2026-09-19 15:00",
+      "status": "confirmed"
+    }
+  ],
+  "auth_mode": "mock"
+}

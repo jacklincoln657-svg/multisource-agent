@@ -1,0 +1,68 @@
+{
+  "source": "feishu_chat_digest_mock",
+  "hours": 48,
+  "whitelist": ["oc_mock_plan_group"],
+  "chats": [
+    {
+      "chat_id": "oc_mock_plan_group",
+      "message_count": 6,
+      "messages": [
+        {
+          "message_id": "om_1",
+          "msg_type": "text",
+          "create_time": "2026-09-16 18:20",
+          "sender_id": "ou_a",
+          "sender_name": "阿乐",
+          "sender_type": "user",
+          "text": "周五前把飞书日历演示走通"
+        },
+        {
+          "message_id": "om_2",
+          "msg_type": "text",
+          "create_time": "2026-09-16 18:22",
+          "sender_id": "ou_b",
+          "sender_name": "小北",
+          "sender_type": "user",
+          "text": "计划表字段用：日期/事项/优先级/来源/状态/备注"
+        },
+        {
+          "message_id": "om_3",
+          "msg_type": "text",
+          "create_time": "2026-09-17 09:05",
+          "sender_id": "ou_a",
+          "sender_name": "阿乐",
+          "sender_type": "user",
+          "text": "明天下午三点项目评审，别忘了"
+        },
+        {
+          "message_id": "om_4",
+          "msg_type": "text",
+          "create_time": "2026-09-17 09:10",
+          "sender_id": "ou_b",
+          "sender_name": "小北",
+          "sender_type": "user",
+          "text": "收到"
+        },
+        {
+          "message_id": "om_5",
+          "msg_type": "text",
+          "create_time": "2026-09-17 09:12",
+          "sender_id": "ou_b",
+          "sender_name": "小北",
+          "sender_type": "user",
+          "text": "顺便把周报待办写进表里，优先级中"
+        },
+        {
+          "message_id": "om_6",
+          "msg_type": "text",
+          "create_time": "2026-09-17 09:15",
+          "sender_id": "ou_a",
+          "sender_name": "阿乐",
+          "sender_type": "user",
+          "text": "评审材料谁准备还没定"
+        }
+      ]
+    }
+  ],
+  "note": "Mock whitelist read. Extract info cards per extraction_contract; ask how to process; write only after confirm."
+}

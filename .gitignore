@@ -1,0 +1,30 @@
+# --- secrets / env ---
+.env
+.env.local
+
+# --- local-only interview / design notes (not for GitHub) ---
+_local/
+
+# --- python ---
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# --- runtime / private artifacts ---
+workspace/_sessions/
+workspace/raw/
+workspace/*.html
+workspace/feishu_user_token.json
+workspace/feishu_bitable.json
+workspace/**/temp_sandbox_script.py
+
+# keep mock inbox samples for offline demo
+!workspace/_inbox/
+!workspace/_inbox/**
+
+# --- IDE / OS ---
+.dash_cache/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
